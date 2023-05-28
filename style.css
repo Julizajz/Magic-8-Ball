@@ -51,6 +51,12 @@ body {
     font-family: "Montserrat", sans-serif;
   }
   
+
+  img{
+
+    height: 400px;
+    width: 530px;
+  }
   footer p {
     font-family: "Montserrat", sans-serif;
     text-align: center;
